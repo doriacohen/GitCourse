@@ -1,0 +1,576 @@
+    1  gedit 1.txt
+    2  sudo apt  install gedit
+    3  sudo apr install geany
+    4  sudo apt install geany
+    5  pws
+    6  pwd
+    7  cd
+    8  pws
+    9  pwd
+   10  ../hello
+   11  ../ hello
+   12  gedit 1.txt
+   13  mkdir docs
+   14  ls
+   15  cd 
+   16  pwd
+   17  ls
+   18  docs
+   19  ls docs
+   20  pws
+   21  pwd
+   22  date docs
+   23  cd
+   24  docs
+   25  hone
+   26  ./ home
+   27  /home
+   28  ../ doria/ docs
+   29  ./doria/ docs
+   30  ls- l
+   31  ls -l
+   32  /home/doria/docs
+   33  cd Desktop
+   34  mkdir docs
+   35  gedit a.txt
+   36  remove a.txt
+   37  rm a.txt
+   38  ls
+   39  cd docs
+   40  gedit a.txt
+   41  ls
+   42  touch b.txt c.txt
+   43  ls
+   44  rm c.txt
+   45  ls
+   46  rm a.txt btxt
+   47  em a.txt
+   48  rm a.txt
+   49  ls
+   50  rm b.txt
+   51  ls
+   52  cd Desktop
+   53  cd
+   54  cd Desktop
+   55  rm docs
+   56  ls
+   57  rm docs
+   58  pwd
+   59  whoami
+   60  mkdir docs
+   61  ls
+   62  ls docs
+   63  gedit a.txt
+   64  pws
+   65  pwd
+   66  ls
+   67  rm .txt
+   68  ls -l
+   69  rn a.txt
+   70  rm a.txt
+   71  ls
+   72  ../docs
+   73  gedit a.txt in docs
+   74  ls
+   75  rm a.txt
+   76  cd Docs
+   77  cd docs
+   78  gedit a.txt
+   79  gedit b.txt
+   80  cd .
+   81  cd.
+   82  cd..
+   83  cds ..
+   84  cd .
+   85  cd ..
+   86  cd logs
+   87  pwd
+   88  mkadir logs
+   89  mkdir logs
+   90  pwd
+   91  cd mkdir
+   92  cd logs
+   93  touch login.lo error.log
+   94  ls
+   95  cd ..
+   96  pwd
+   97  ls*log
+   98  ls *log
+   99  pwd
+  100  ls *txt
+  101  ls
+  102  ls *
+  103  ls *log
+  104  ls *logs
+  105  ls *txt
+  106  pwd
+  107  cd logs
+  108  ls
+  109  gedit login.lo login.log
+  110  ls
+  111  rn login.lo
+  112  rm login.lo
+  113  gedit login.log
+  114  gedit login.lo
+  115  rm login.log
+  116  ls
+  117  ls *log
+  118  cd..
+  119  cd ..
+  120  ls *log
+  121  /ls *log
+  122  / ls *log
+  123  ls *txt
+  124  ls -l
+  125  ls *
+  126  ls *txt
+  127  ls -l*
+  128  ls--help
+  129  ls --help
+  130  ls * --help
+  131  find . -name *txt
+  132  find . -name *log
+  133  cd..
+  134  cd ..
+  135  ls -s
+  136  root
+  137  / root
+  138  /root
+  139  whoami
+  140  cd -
+  141  cat error.log
+  142  cd logs
+  143  ls
+  144  cat home
+  145  ls -l
+  146  ls
+  147  cd /
+  148  cat hello
+  149  cd Desktop
+  150  ls
+  151  cd home
+  152  ls
+  153  cd doria
+  154  ls
+  155  find error.log
+  156  cd error.log
+  157  cd logs
+  158  ls
+  159  cat error.log
+  160  cd error.log
+  161  cat error.log
+  162  gnome error.log
+  163  gnome
+  164  path
+  165  pathchk --help
+  166  geany error.log
+  167  cat error.log
+  168  cd docs
+  169  pwd
+  170  cd..
+  171  cd ..
+  172  cd docs
+  173  geany a.txt
+  174  geany b.txt
+  175  ls
+  176  cat a.txt b.txr
+  177  cat b.txt
+  178  mv a.txt b.txt
+  179  ls
+  180  cat b.txt
+  181  ./
+  182  cd.. 
+  183  cd ..
+  184  pwd
+  185  mkdir
+  186  mkadir --HELP
+  187  mkadir --help
+  188  cd doria
+  189  cd Desktop
+  190  cd home
+  191  cd doria
+  192  pwd
+  193  mkdir new_directory
+  194  ls
+  195  history
+  196  geadit history
+  197  geany history
+  198  history -w history
+  199  ls
+  200  cd history
+  201  cat history
+  202  clear
+  203  pwd
+  204  gedit .hidden.txt
+  205  ls
+  206  ls -l
+  207  ls- d
+  208  pws
+  209  pwd
+  210  ls -a
+  211  cd
+  212  ls
+  213  cd docs
+  214  ls
+  215  rm -r text.1
+  216  rm test.1
+  217  ls
+  218  cat a.txt
+  219  cat. b.txt
+  220  cat b.txt
+  221  echo "mybe" >> b.txt
+  222  cat b.txt
+  223  gedit /home/doria/.hidden.txt
+  224  cd ..
+  225  ls
+  226  cp -r /home/doria/anerlesson1 /home/doria/doria
+  227  ls
+  228  ls anerlesson1
+  229  ls doria
+  230  ll
+  231  ls -l
+  232  la -a
+  233  ls --a
+  234  cat anerlesson1 >> "yooo"
+  235  ls
+  236  cd anerlesson1
+  237  echo "yooo" >> 
+  238  echo "yooo" ./ an
+  239  ls
+  240  cd ..
+  241  ls
+  242  cp -r docs doria
+  243  ls
+  244  rm -r docs
+  245  ls
+  246  cd doria
+  247  ls
+  248  cd ..
+  249  file doria
+  250  cd doris
+  251  cd doria
+  252  file
+  253  ./= a.txt
+  254  ls
+  255  anacron 
+  256  ls
+  257  cd anerlesson1
+  258  ls
+  259  cd ..
+  260  cd docs
+  261  ls
+  262  ./=a.txt
+  263  ./ = a.txt
+  264  ./ =a.txt
+  265  ./= a.txt
+  266  wget
+  267  history -w 
+  268  cd
+  269  ls
+  270  cd docs
+  271  ls
+  272  rm -r text.1
+  273  rm test.1
+  274  ls
+  275  cat a.txt
+  276  cat. b.txt
+  277  cat b.txt
+  278  echo "mybe" >> b.txt
+  279  cat b.txt
+  280  gedit /home/doria/.hidden.txt
+  281  cd ..
+  282  ls
+  283  cp -r /home/doria/anerlesson1 /home/doria/doria
+  284  ls
+  285  ls anerlesson1
+  286  ls doria
+  287  ll
+  288  ls -l
+  289  la -a
+  290  ls --a
+  291  cat anerlesson1 >> "yooo"
+  292  ls
+  293  cd anerlesson1
+  294  echo "yooo" >> 
+  295  echo "yooo" ./ an
+  296  ls
+  297  cd ..
+  298  ls
+  299  cp -r docs doria
+  300  ls
+  301  rm -r docs
+  302  ls
+  303  cd doria
+  304  ls
+  305  cd ..
+  306  file doria
+  307  cd doris
+  308  cd doria
+  309  file
+  310  ./= a.txt
+  311  ls
+  312  anacron 
+  313  ls
+  314  cd anerlesson1
+  315  ls
+  316  cd ..
+  317  cd docs
+  318  ls
+  319  ./=a.txt
+  320  ./ = a.txt
+  321  ./ =a.txt
+  322  ./= a.txt
+  323  wget
+  324  history -w 
+  325  wget
+  326  history -w save_his
+  327  ls
+  328  rm-r save_his 
+  329  rm save_his 
+  330  ls
+  331  cd ..
+  332  ls
+  333  cd ..
+  334  ls
+  335  mkdir -p 1/2/3
+  336  ls
+  337  ls 1
+  338  ls2
+  339  ls 2
+  340  ls 1/2
+  341  rm -r ./1
+  342  ls
+  343  vim
+  344  vi
+  345  cd doria
+  346  cd home
+  347  ls
+  348  cd ..
+  349  ls
+  350  cd doria
+  351  ls
+  352  cd playroom/
+  353  ls
+  354  cd lesson2/
+  355  ls
+  356  cd ..
+  357  cat history
+  358  ls
+  359  cd ..
+  360  cd -
+  361  ls
+  362  cd ..
+  363  ls
+  364  cd ..
+  365  ld
+  366  ls
+  367  cd home
+  368  ls
+  369  cd doria
+  370  ls
+  371  cd Documents/
+  372  ls
+  373  mkdir myfirstproject
+  374  git
+  375  git init
+  376  sudo apt install git
+  377  git init
+  378  echo "my first file at the repo" > test.txt
+  379  git status
+  380  git add .
+  381  touch a b
+  382  git sgit status
+  383  git status
+  384  git rm a -f
+  385  git add .
+  386  git rm a -f
+  387  git rm b --caches
+  388  git rm b --cashes
+  389  git rm b --cashed
+  390  git status
+  391  git rm b --cached
+  392  git status
+  393  git commit -m "my first prohect
+
+  394  git commit -m "my first project"
+  395  git config --global doriacohen.email "yardeni.doria@gmail.com"
+  396  git log
+  397  git commit -m "my first project"
+  398  git log
+  399  \git lof -help
+  400  \git log -help
+  401  git commit -m "my first project"
+  402  git config --global distinctId = mixpanelInstance.distinctId
+  403  distinctId = mixpanelInstance.distinctId
+  404  https://github.com/doriacohen/GitCourse.git
+  405  git config -- global https://github.com/doriacohen/GitCourse.git
+  406  git commit -m "my first project"
+  407  https://github.com/doriacohen/GitCourse.git
+  408  git log
+  409  git log https://github.com/doriacohen/GitCourse.git
+  410  git cstatus
+  411  git status
+  412  cd myfirstproject/
+  413  ls
+  414  cd ..
+  415  ls
+  416  cd -
+  417  ls
+  418  cd ..
+  419  mv test.txt > ./myfirstproject/
+  420  rm test.txt 
+  421  cd myfirstproject/
+  422  echo "my first project" > test.txt
+  423  git status
+  424  git add .
+  425  git status
+  426  git rm -f test.txt 
+  427  cd ..
+  428  git rm -f test.txt 
+  429  git rm -f b
+  430  git status
+  431  git rm -f b
+  432  git add b
+  433  git status
+  434  git rm -f b
+  435  git status
+  436  ls
+  437  cd ..
+  438  ls
+  439  cd -
+  440  mkdir first project 
+  441  cd m
+  442  rm -r first project
+  443  ls
+  444  mkdir firstproject
+  445  cd firstproject/
+  446  git init
+  447  echo "my first project" > test.txt
+  448  ls
+  449  cat test.txt 
+  450  git status
+  451  git add .
+  452  touch a b
+  453  git add a
+  454  git status
+  455  gid add .
+  456  git add .
+  457  git status
+  458  git log
+  459  git commit -m "my first commit"
+  460  git config --global user.email "yardeni.doria@gmail.com"
+  461  git config --global user.name "doriacohen"
+  462  git commit -m "my first commit"
+  463  git log
+  464  git commit -m "added files: b \
+and a"
+  465  git log
+  466  ls
+  467  cat a
+  468  echo "this ia a" > a
+  469  cat a
+  470  cat test.txt 
+  471  git log
+  472  git status
+  473  git add .
+  474  git commit -m "added files: b \
+and a"
+  475  git log
+  476  git status
+  477  git log
+  478  ls
+  479  cat test.txt 
+  480  echo "the file has been updates" >> test.txt 
+  481  cat test.txt 
+  482  git status
+  483  git add .
+  484  git status
+  485  git commit -m "modified file test.txt
+"
+  486  git log
+  487  cd .git
+  488  ls
+  489  ll
+  490  cd ..
+  491  git clone https://github.com/doriacohen/GitCourse.git
+  492  ls
+  493  cd GitCourse/
+  494  ls
+  495  git log
+  496  git remote add origin  https://github.com/doriacohen/GitCourse.git
+  497  touch a
+  498  git status
+  499  gus add .
+  500  git add .
+  501  git commit -m "added file a"
+  502  git log
+  503  cd ..
+  504  cd G
+  505  cd GitCourse/
+  506  git log
+  507  it pull
+  508  git pull
+  509  ls
+  510  git log
+  511  git push origin master
+  512  cd ..
+  513  rm -r GitCourse/
+  514  rm -rf GitCourse/
+  515  git clone https://github.com/doriacohen/GitCourse.git
+  516  cd GitCourse/
+  517  l
+  518  git pull
+  519  git log
+  520  touch history 
+  521  ls
+  522  cat history 
+  523  rm history 
+  524  history 
+  525  history > history_2
+  526  ls
+  527  git status
+  528  git add .
+  529  git commit -m "added my first history of my linux commands"
+  530  git log
+  531  ls history_2 
+  532  cat history_2 
+  533  git push 
+  534  git remote -v
+  535  ping github.com
+  536  ifconfig
+  537  cd ..
+  538  ls
+  539  cd ..
+  540  pwd
+  541  ls
+  542  ls .ssh
+  543  cd doria/
+  544  ls .ssh
+  545  ssh-keygen-t-rsa-b 4096
+  546  ssh- keygen -t -rsa -b 4096
+  547  ssh-keygen -t -rsa -b 4096
+  548  ssh-keygen -t rsa -b 4096
+  549  ll .ssh
+  550  cd .shh
+  551  cd. ssh
+  552  cd .ssh
+  553  ls
+  554  cat od_rsa
+  555  cat ./od_rsa
+  556  cat ./id_rsa.pub
+  557  cd ..
+  558  ls
+  559  cd D
+  560  cd Documents/
+  561  cd GitCourse/
+  562  ls
+  563  ssh - T git@github.com
+  564  ssh -T git@github.com
+  565  ls ~/.ssh
+  566  cat ~/.ssh/known_hosts 
+  567  ping hithub.com
+  568  git config remote .origin.url https://github.com/doriacohen/GitCourse.git
+  569  git config remote .origin.url http git@github.com:doriacohen/GitCourse.git
+  570  git config remote .origin.url git@github.com:doriacohen/GitCourse.git
+  571  git config remote.origin.url git@github.com:doriacohen/GitCourse.git
+  572  history > history
