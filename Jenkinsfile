@@ -15,9 +15,9 @@ pipeline {
                                    '''
 			}
 		}
-		stage when{('Bash script') {
-			
-				expression{ [ params.LANGUAGE == "Bash" ] || [ params.LANGUAGE == "All" ] }
+		stage ('Bash script') {
+			when{
+				expression{ params.LANGUAGE == "Bash"  }
 			}
 			steps {      
 				sh '''
