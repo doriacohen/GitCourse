@@ -1,8 +1,8 @@
 pipeline {
 	agent any
 	
-	println "Doria -> $params.LANGUAGE" 
-	println params.LANGUAGE
+	sh 'echo "bla bla bla"'
+	
 	stages {
 		stage('Clone Sources') {
 			steps {
