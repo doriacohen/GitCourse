@@ -1,8 +1,6 @@
 pipeline {
 	agent any
 	
-	sh 'echo "bla bla bla"'
-	
 	stages {
 		stage('Clone Sources') {
 			steps {
@@ -23,6 +21,9 @@ pipeline {
 				expression{ return params.LANGUAGE == 'Bash' || params.LANGUAGE == 'All' }
 			}
 			steps {      
+				sh 'echo "bla bla bla"'
+				sh '*** doria $LANGUAGE'
+				
 				sh '''
 					cd ${WORKSPACE}/Scripts/
 					chmod 755 bash_project.sh
