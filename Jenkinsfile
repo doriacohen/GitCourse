@@ -1,5 +1,9 @@
 pipeline {
 	agent any
+	
+	parameters {
+		choice(name: 'LANGUAGE', choices:['All','Python','Bash', 'C'], description: 'The Language')
+	}
 	stages {
 		stage('Clone Sources') {
 			steps {
