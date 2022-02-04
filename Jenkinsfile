@@ -15,9 +15,9 @@ pipeline {
                                    '''
 			}
 		}
-		stage ('Bash script') {
+		stage('Bash script') {
 			when{
-				expression{ '$LANGUAGE' == 'Bash']  }
+				expression{ "$LANGUAGE" == "Bash" ] || [ "$LANGUAGE" == "All" ] }
 			}
 			steps {      
 				sh '''
@@ -33,7 +33,7 @@ pipeline {
 		 }  
 		 stage('Python script') {
 		 	when{
-				expression{ ["$LANGUAGE" == "Python" ] || [ params.LANGUAGE == "All" ] }
+				expression{ "$LANGUAGE" == "Python" ] || [ "$LANGUAGE" == "All" ] }
 			}
 			steps {
 				sh '''
@@ -49,7 +49,7 @@ pipeline {
 			}
 		 stage('C file') {
 		 	when{
-				expression{ [ "$LANGUAGE" == "C" ] || [ params.LANGUAGE == "All" ] }
+				expression{ "$LANGUAGE" == "C" ] || [ "$LANGUAGE" == "All" ] }
 			}
 			steps {
 				sh '''
