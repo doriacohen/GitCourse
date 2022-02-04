@@ -1,10 +1,6 @@
 pipeline {
 	agent any
 	
-	parameters {
-		choice(name: 'LANGUAGE', choices:['All','Python','Bash', 'C'], description: 'The Language')
-	}
-	
 	echo "Doria -> $params.LANGUAGE" 
 	echo params.LANGUAGE
 	stages {
